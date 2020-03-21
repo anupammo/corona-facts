@@ -2,3 +2,7 @@
     width: 100%;
     height: 450px;
 } */
+#img-mob {
+    background-image: url(home-slide-bg.png);
+    background-position: center;
+}
