@@ -1,3 +1,14 @@
+h1, h2 {
+  font-size: 2.5rem;
+}
+.text-brand {
+  font-size: 24px;
+}
+img.img-corona {
+  width: 24px;
+  height: auto;
+  margin-top: -5px;
+}
 #img-mob {
     background-image: url(home-slide-bg.png);
     background-position: center;
@@ -19,3 +30,17 @@ canvas{
     position: absolute;
     z-index: -1;
   }
+.text-red {
+  color: #cc2929;
+}
+.text-violet {
+  color: #7675de;
+}
+#trianglify-bg {
+  background-image: url(trianglify-bg.jpg);
+  background-position: center;
+  background-size: cover;
+}
+footer {
+  background-color: #7675de;
+}
