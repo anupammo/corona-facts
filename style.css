@@ -14,3 +14,9 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+  .img-btn {
+    width: 150px;
+    background-color: #000;
+    border-radius: 5px;
+    margin: 15px auto;
+}
